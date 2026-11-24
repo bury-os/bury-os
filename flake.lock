@@ -46,11 +46,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1795511718,
-        "narHash": "sha256-JR2Q186+7iSNoKzfy1HasyxTe1Q72vqZs8JoMfifl8s=",
+        "lastModified": 1795514145,
+        "narHash": "sha256-6x803A/iPdwVlTPaI+psNdJd742aF0mwnaAsIUvopko=",
         "owner": "bury-os",
         "repo": "bury-hyprland",
-        "rev": "c22d6796baa4862bb991ae8857f81291a4c173d9",
+        "rev": "3e71659315a0320b9bc2360a3396dc6af62eccea",
         "type": "github"
       },
       "original": {
@@ -106,11 +106,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1794581889,
-        "narHash": "sha256-yZBitRSfSRNVehPwMMmNsFc2eUMGrA5BKkdCMolb7dY=",
+        "lastModified": 1795514194,
+        "narHash": "sha256-Tu5pKdcXSj/n6vs7hSuLo3FGrdAIo59LqgZ02cvZ4Bs=",
         "owner": "bury-os",
         "repo": "bury-swaylock",
-        "rev": "6d427196e6ded523b591aa2f814026ca2603198d",
+        "rev": "ce362219abdf29e157f103c94163494a7fc8b57e",
         "type": "github"
       },
       "original": {
