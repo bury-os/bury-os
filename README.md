@@ -10,3 +10,4 @@ All BuryOS environment variables are prefixed with `BURYOS_`.
 |------|----------|
 | `BURYOS_LAUNCH_APP` | The app launch command when SUPER key is pressed. |
 | `BURYOS_LAUNCH_TASK` | The task switcher command when SUPER + Space is pressed. |
+| `BURYOS_SHELL_BAR` | The bar to use in the shell. |
