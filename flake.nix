@@ -43,7 +43,6 @@
       ];
     };
 
-    # Home-manager support (HOME configs)
     homeManagerModules.default = { pkgs, ... }: {
       imports = [
         bury-quickshell.homeManagerModules.default
